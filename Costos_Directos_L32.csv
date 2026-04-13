@@ -1,0 +1,31 @@
+Código,Descripción,Unidad,Cantidad,Costo Unitario,Costo Total
+A.01,Excavación a mano,m3,32.32,3500,113120
+A.02,Concreto cimentación f'c=210 kg/cm2,m3,24.14,85000,2051900
+A.03,Acero refuerzo cimentación,kg,2414,1200,2896800
+B.01,Concreto muros f'c=210 kg/cm2,m3,33.80,85000,2873000
+B.02,Concreto losas f'c=210 kg/cm2,m3,38.63,85000,3283550
+B.03,Acero refuerzo muros y columnas,kg,3718,1200,4461600
+B.04,Acero refuerzo losas,kg,3477,1200,4172400
+C.01,Muros perimetrales block 15cm,m2,315,32000,10080000
+C.02,Muros interiores block 10cm,m2,210,28000,5880000
+D.01,Tubería eléctrica PVC,ml,700,2500,1750000
+D.02,Cableado eléctrico,ml,1050,1200,1260000
+D.03,Cajas y accesorios,un,25,8500,212500
+D.04,Tablero centro de carga,un,1,125000,125000
+E.01,Tubería PVC aguas negras,ml,85,3500,297500
+E.02,Tubería PVC agua potable,ml,65,2800,182000
+E.03,Accesorios sanitarios,glb,1,450000,450000
+F.01,Puertas interiores completa,un,6,180000,1080000
+F.02,Puerta principal,un,1,250000,250000
+F.03,Ventanas aluminio,m2,18,55000,990000
+F.04,Portón cochera,un,1,320000,320000
+F.05,Closets y gabinetes,glb,1,450000,450000
+G.01,Estuco interior,m2,613,8500,5210500
+G.02,Pintura interior y exterior,m2,564,5500,3102000
+G.03,Cerámica piso interior,m2,149,45000,6705000
+G.04,Cerámica baños,m2,45,52000,2340000
+G.05,Cielo falso durisol,m2,175,18000,3150000
+H.01,Estructura metálica techo,m2,201,28000,5628000
+H.02,Lámina de zinc o aluminio,m2,231,22000,5082000
+H.03,Impermeabilización,m2,60,15000,900000
+,TOTAL COSTOS DIRECTOS,,,,,76118650
