@@ -1,0 +1,16 @@
+Código,Descripción,Base,%,Monto Fijo,Costo Total
+I.01,Administración Campo,Directos,2.00,,1522373
+I.02,Otros + Impuestos,Directos,6.50,,4947712
+I.03,Administración Permisos,Directos,20.00,,15223730
+I.04,Imprevistos,Directos,3.50,,2664152
+I.05,Reparación/Posventa,Directos,2.00,,1522373
+I.06,Pago Green,Directos,5.00,,3805932
+I.07,Comisión Ventas,Directos,1.58,,1201475
+I.08,Formalización,Directos,0.80,,608949
+I.09,Mercadeo,Directos,0.80,,608949
+I.10,Publicidad,Directos,1.00,,761187
+I.11,Regalías Gerencia,Fijo,,450000,450000
+I.12,Pago Brenes,Fijo,,2400000,2400000
+,TOTAL COSTOS INDIRECTOS,,,,,33716930
+
+NOTA: Calculados sobre base de Costos Directos: ₡76,118,650

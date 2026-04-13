@@ -1,0 +1,47 @@
+RESUMEN PRESUPUESTO - CASA L-32 (MODELO ZANTE 4D)
+===================================================
+
+DATOS DEL PROYECTO:
+- Modelo: Zante 4D
+- Lote: L-32
+- Ubicación: Ciudad del Valle, Novarum
+- Niveles: 2
+- Área Nivel 1: 87.57 m2
+- Área Nivel 2: 87.57 m2
+- Área Total Construida: 175.14 m2
+- Dormitorios: 3
+- Baños: 2
+- Cochera: Si
+
+ANÁLISIS DE PLANOS (16 documentos):
+- Arquitectónicos: A-100, A-200, A-300, A-400, A-002
+- Estructurales: S01, S02, S03, S04, S05
+- Eléctricos: E-000, E-101
+- Mecánicos: M-000, M-100
+- Generales: G-000, C-Croquis
+
+RESUMEN COSTOS:
+- Total Costos Directos: ₡76,118,650
+- Total Costos Indirectos: ₡33,716,930
+- COSTO TOTAL PROYECTO: ₡109,835,580
+
+ANÁLISIS POR M2:
+- Costo/m2 (solo Directos): ₡434,631
+- Costo/m2 (Total): ₡627,146
+
+ESTRUCTURA INDIRECTOS ADELANTE:
+- Admin Campo: 2.0%
+- Otros + Impuestos: 6.5%
+- Admin Permisos: 20.0%
+- Imprevistos: 3.5%
+- Reparación/Posventa: 2.0%
+- Pago Green: 5.0%
+- Comisión Ventas: 1.58%
+- Formalización: 0.8%
+- Mercadeo: 0.8%
+- Publicidad: 1.0%
+- Regalías Gerencia: ₡450,000 (fijo)
+- Pago Brenes: ₡2,400,000 (fijo)
+
+Fecha generación: 2025-04-13
+Generado por: Ábaco - Especialista Presupuestos
